@@ -1,0 +1,3 @@
+"Action","Input","Expected result","Group"
+"<p>Verify Search Bar</p>","","<ul><li>Should have an placeholder </li><li>Should have an icon</li><li>Placeholder should have search for anything</li></ul>","Search Section"
+"<p>Verify Searching</p>","<p>Laptop</p>","<ul><li>Should show recent searches item upon clicking</li><li>Should show recommendation based on typed text</li><li>Should execute searching upon pressing enter as well as upon clicking search icon</li><li>Should show all the relevant result after searching</li></ul>","Search Section"

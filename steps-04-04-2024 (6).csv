@@ -1,0 +1,7 @@
+"Action","Input","Expected result","Group"
+"<p>Verify Login Page</p><p><br></p>","","<ul><li>Should have login form</li><li>Should have Phone number field</li><li>Should have Password field</li><li>Should have login button</li><li>Should have forgot password? button</li><li>Should have &quotDon't have an account? Signup link </li></ul>","User Login"
+"<p>Verify Phone Number field</p>","<p>9844455666</p>","<ul><li>Should be a required field</li><li>Should have country selection option</li><li>Should accept numbers only</li><li>Phone number must be 10 digits</li><li>Should warn if requirements aren't meet</li></ul>","User Login"
+"<p>Verify Password field</p><p><br></p>","","<ul><li>Should be a required field</li><li>Password must be at least 6 characters</li><li>Must have a see/hide password toggle</li><li>Password should have at least one capital alphabet and one special character</li><li>Should warn if requirements aren't fulfilled</li></ul>","User Login"
+"<p>Verify Log In button</p><p><br></p>","","<ul><li>Should redirect to homepage after successful validation</li><li>Should display error if provided input are not valid</li></ul>","User Login"
+"<p>Verify Forgot Password link </p>","","<ul><li>Should redirect to Forgot Password page</li></ul>","User Login"
+"<p>Verify Sign Up link</p><p><br></p>","","<ul><li>Should redirect user to sign up page </li></ul>","User Login"

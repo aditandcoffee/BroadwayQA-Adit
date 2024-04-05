@@ -1,0 +1,2 @@
+"Action","Input","Expected result","Group"
+"<p>Verify ...</p>","","<ul><li>Should have ...</li></ul>","Default group"

@@ -1,0 +1,3 @@
+"Action","Input","Expected result","Group"
+"<p>verify test</p>","","<ul><li>should have test</li></ul>","Default group"
+"<p>Verify functionality</p>","","<ul><li>should do this/that</li></ul>","Default group"

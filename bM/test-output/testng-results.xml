@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-30T20:00:04 NPT" name="Default suite" finished-at="2024-03-30T20:00:15 NPT" duration-ms="10717">
+    <groups>
+    </groups>
+    <test started-at="2024-03-30T20:00:04 NPT" name="Default test" finished-at="2024-03-30T20:00:15 NPT" duration-ms="10717">
+      <class name="testCase.Login">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCase.Login@439a8f59]" started-at="2024-03-30T20:00:04 NPT" name="setup" finished-at="2024-03-30T20:00:06 NPT" duration-ms="1565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ForgetPassword()[pri:2, instance:testCase.Login@439a8f59]" started-at="2024-03-30T20:00:06 NPT" name="ForgetPassword" finished-at="2024-03-30T20:00:13 NPT" duration-ms="6956" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ForgetPassword -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:testCase.Login@439a8f59]" started-at="2024-03-30T20:00:13 NPT" name="endTest" finished-at="2024-03-30T20:00:15 NPT" duration-ms="2154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- testCase.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

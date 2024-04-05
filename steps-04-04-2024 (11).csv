@@ -1,0 +1,5 @@
+"Action","Input","Expected result","Group"
+"<p>Tags Page</p>","","<p>Should have:-</p><ol><li>List of tags</li><li>Page info</li></ol>","Tags Section"
+"<p>Tags</p>","","<ol><li>Must have names</li><li>Must have hover effect upon hovering</li><li>Must have a edit/delete button upon hovering</li></ol>","Tags Section"
+"<p>Edit button</p>","","<p>Must redirect to edit tag page</p>","Tags Section"
+"<p>Delete button</p>","","<p>Must redirect to delete conformation popup</p>","Tags Section"

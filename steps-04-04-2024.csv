@@ -1,0 +1,4 @@
+"Action","Input","Expected result","Group"
+"<p>Verify button</p>","","<ul><li>Should have button</li></ul>","Default group"
+"<p>Verify registration form</p>","","<p>Should have a registration form</p>","Default group"
+"<p>verify name field</p>","","<p>should have a name field with standard parameters</p>","Default group"

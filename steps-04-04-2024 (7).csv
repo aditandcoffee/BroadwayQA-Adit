@@ -1,0 +1,4 @@
+"Action","Input","Expected result","Group"
+"<p>Verify Logout Popup</p>","","<ul><li>Should show a logout conformation pop up</li><li>Should have a logout and cancel button</li></ul><p><br></p>","User Logout"
+"<p>Verify Logout button</p>","","<ul><li>Should successfully logout and redirect user to login page</li></ul><p><br></p>","User Logout"
+"<p>Verify Cancel button</p>","","<ul><li>Should close the logout conformation popup</li></ul>","User Logout"

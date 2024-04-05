@@ -1,0 +1,4 @@
+"Action","Input","Expected result","Group"
+"<p>Verify Register Page</p>","","<ul><li>Should have a signup page</li></ul>","Default group"
+"<p>Verify test</p>","","<ul><li>Should have test</li></ul>","Default group"
+"<p>verify test</p>","","<ul><li>Should have test</li></ul>","Default group"
